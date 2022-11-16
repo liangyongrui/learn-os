@@ -55,6 +55,26 @@
 
 1. 看完 rCore-Tutorial-Book 第三版 第三章 - 第五章
 
+### daily
+
+- 2022-11-14
+
+  1. rCore-Tutorial-Book 第三版
+     - 看完第三章
+
+- 2022-11-15
+  1. rCore-Tutorial-Book 第三版
+     - 看到了 http://rcore-os.cn/rCore-Tutorial-Book-v3/chapter4/6multitasking-based-on-as.html
+- 2022-11-16
+
+  1. rCore-Tutorial-Book 第三版
+     - 看完第四章
+
+- 2022-11-17
+  1. rCore-Tutorial-Book 第三版
+- 2022-11-18
+  1. rCore-Tutorial-Book 第三版
+
 ## Week4(2022-11-21 ~ 2022-11-27)
 
 ### 目标
