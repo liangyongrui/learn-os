@@ -51,7 +51,7 @@
 
 ## Week3(2022-11-14 ~ 2022-11-20)
 
-### 目标
+### 总结
 
 1. 看完 rCore-Tutorial-Book 第三版 第三章 - 第五章
 
@@ -70,22 +70,42 @@
   1. rCore-Tutorial-Book 第三版
      - 看完第四章
 
-- 2022-11-17
+- 2022-11-19
   1. rCore-Tutorial-Book 第三版
-- 2022-11-18
-  1. rCore-Tutorial-Book 第三版
+     - 看完第五章
 
 ## Week4(2022-11-21 ~ 2022-11-27)
 
 ### 目标
 
-1. 看完 rCore-Tutorial-Book 第三版 第六章 - 第八章
+1. 看完<https://os2edu.cn/course/106>
+
+### daily
+
+- 2022-11-21
+  1. 看<https://os2edu.cn/course/106>视频
+     - 看完 1-3
+- 2022-11-22
+  1. 看<https://os2edu.cn/course/106>视频
+     - 看完 4-5
+  1. 做完 lab0-0 - lab1 实验
+- 2022-11-23
+
+  1. 做完 lab1 - lab2 简答题
+
+- 2022-11-24
+  1. 做完 lab2 实验
+
+## TODO
+
+- 2022-11-26
+  1. 做完 lab3 问答 和 实验
 
 ## Week5(2022-11-28 ~ 2022-12-04)
 
 ### 目标
 
-1. 做完 lab0 - lab3
+1. 看完 rCore-Tutorial-Book 第三版 第六章 - 第八章
 
 ## Week6(2022-12-05 ~ 2022-12-11)
 
